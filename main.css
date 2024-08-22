@@ -1,0 +1,99 @@
+
+/* this is main section css  */
+
+.main-container{
+    margin-top: 80px;
+}
+
+.food-product{
+    text-align: center;
+}
+.pro h6{
+    color:#F48E28;
+}
+.most h1{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.top-menu{
+    display: flex;
+    padding-right: 20px;
+}
+.top-menu img{
+   
+  height: 345px;
+  width: 400px;
+}
+
+.bottom-menu{
+    display: flex;
+    padding-right: 20px;
+}
+.bottom-menu img{
+   
+    height: 345px;
+    width: 400px;
+}
+
+.menu-button{
+    background-color: #F48E28;
+    padding: 10px 20px;
+    display: flex;
+    gap: 20px;
+    border-radius: 31.5px;
+   margin-left: 400px;
+   margin-top: 40px;
+   border: none;
+}
+.menu-button h6{
+    color: white;
+    padding-top: 5px;
+    font-size: 10px;
+}
+/* here menu bar css end  */
+
+.service-container{
+    margin-top: 80px;
+
+}
+
+.ser-choos{
+    text-align: center;
+}
+.ser h6{
+    color: #F48E28;
+}
+.choos {
+    font-weight: bolder;
+    font-size: 20px;
+}
+.services{
+    display: flex;
+}
+
+.full{
+    height: 300px;
+    width: 300px;
+    border: none;
+    padding-top: 40px;
+}
+.full1{
+    height: 400px;
+    width: 400px;
+    padding-top: 5px;
+}
+
+
+
+.testimonials{
+    margin-top: 80px;
+}
+.testimonials-title img{
+    height: 500px;
+    width: 1000px;
+}
+
+.subs img{
+    width: 990px;
+    margin-top: 80px;
+}

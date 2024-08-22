@@ -1,0 +1,146 @@
+/* this is header css  */
+
+/* here nav section start  */
+
+
+.nav-bar-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 0px;
+}
+
+.logo img{
+    height: 56px;
+    width: 94px;
+
+}
+
+.navs h1{
+    font-size: 18px;
+    font-family: montserrate;
+    font-weight: 600px;
+}
+
+.navs{
+    display: flex;
+    gap: 40px;
+    padding-top: 20px;
+}
+
+
+.search-buttons{
+    padding: 0px 0px;
+    display: flex;
+    gap: 80px;
+    border-radius: 20%;
+    border: 1px solid white;
+    box-shadow: 10px 10px bisque;
+   
+}
+.search-icon{
+    display: flex;
+    gap: 10px;
+    padding-top: 20px;
+   
+}
+
+.search-icon h1{
+    font-size: 15px;
+}
+.search-icon img{
+    height: 20px;
+    width: 20px;
+}
+.line{
+    height: 20px;
+    padding-top: 20px;
+}
+.mail{
+    height: 30px;
+    width: 30px;
+}
+
+
+
+/* here nav section end  */
+
+
+/* here nav main section start  */
+
+.nav-main-section{
+    margin-top: 30px;
+    display: flex;
+   
+   
+}
+
+.delivery-way{
+    display: flex;
+    gap: 50px;
+    border-radius: 31.7px;
+    padding: 0px 10px;
+    background-color: #F5DDC4;
+}
+
+.delivery-way h6{
+    padding: 15px 0px;
+    background-color: #F5DDC4;
+
+}
+.delivery-way img{
+    border-radius: 50%;
+}
+
+.banner-title h1{
+    padding-top: 60px;
+    font-size: 76px;
+}
+.banner-title span{
+    color: #F48E28;
+}
+.banner-title p{
+    padding-top: 40px;
+}
+
+.order-now{
+    margin-top: 80px;
+   background-color:#F48E28;
+   border-radius: 31.7px;
+    padding: 20px 40px;
+    color: white;
+    border: none;
+   
+    
+}
+.order{
+    display: flex;
+    gap: 40px;
+
+}
+.order-pro{
+    display: flex;
+    padding-top: 95px;
+    gap: 20px;
+}
+.order-pro img{
+    height: 40px;
+    width: 30px;
+    border: 1px solid white;
+    box-shadow: 10px 10px white;
+}
+
+
+
+
+
+
+/* here nav main section end  */
+
+.contact-section{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #F48E28;
+    border-radius: 20px;
+    padding: 10px 20px;
+}

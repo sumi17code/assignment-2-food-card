@@ -1,0 +1,10 @@
+.footer-container{
+    margin-top: 100px;
+    display: flex;
+    gap: 40px;
+}
+
+
+.social-icon{
+    padding-top: 10px;
+}
